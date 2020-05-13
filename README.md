@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/Infy-demo-org/ContosoAir/_apis/build/status/navneetchauhan1988.ContosoAir?branchName=master)](https://dev.azure.com/Infy-demo-org/ContosoAir/_build/latest?definitionId=10&branchName=master)
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
