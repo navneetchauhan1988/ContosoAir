@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/Astra-demolab-Org/Contoso%20Air/_apis/build/status/navneetchauhan1988.ContosoAir?branchName=master)](https://dev.azure.com/Astra-demolab-Org/Contoso%20Air/_build/latest?definitionId=7&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
